@@ -4,10 +4,10 @@ app = Flask(__name__)
 
 head=["Name","Age"]
 data1=[
-    ("ashu",18),
-    ("ASHU",19),
-    ("Pradeep",19),
-    ("Abhay",19)
+    ("ashu",180),
+    ("ASHU",190),
+    ("Pradeep",109),
+    ("Abhay",109)
 ]
 
 @app.route('/')
